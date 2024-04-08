@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Challange.API.props" />
+</Project>
